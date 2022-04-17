@@ -1,0 +1,7 @@
+D:\newRepos\TiposPredefinidos\TiposPredefinidos\bin\Debug\TiposPredefinidos.exe.config
+D:\newRepos\TiposPredefinidos\TiposPredefinidos\bin\Debug\TiposPredefinidos.exe
+D:\newRepos\TiposPredefinidos\TiposPredefinidos\bin\Debug\TiposPredefinidos.pdb
+D:\newRepos\TiposPredefinidos\TiposPredefinidos\obj\Debug\TiposPredefinidos.csprojAssemblyReference.cache
+D:\newRepos\TiposPredefinidos\TiposPredefinidos\obj\Debug\TiposPredefinidos.csproj.CoreCompileInputs.cache
+D:\newRepos\TiposPredefinidos\TiposPredefinidos\obj\Debug\TiposPredefinidos.exe
+D:\newRepos\TiposPredefinidos\TiposPredefinidos\obj\Debug\TiposPredefinidos.pdb
